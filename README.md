@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=300&section=header&text=myElecCar&fontSize=90&fontColor=fff)
 
-<img src="/uploads/25d82a4716a6d9d311e0141920ff61ce/Group_21.png" width="100"/>
+![logo](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/25d82a4716a6d9d311e0141920ff61ce/Group_21.png)
 
 # Team11(열일) - myElecCar 
 
@@ -14,7 +14,7 @@
 <br/>
 
 #### 서비스 미리보기
-<img src="/uploads/0900f4be37c5e34342e59fd87b21f201/화면_캡처_2022-12-17_052144.png" width="300"/>
+![service pic](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/0900f4be37c5e34342e59fd87b21f201/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_052144.png)
 
 <br/>
 
@@ -59,7 +59,7 @@
 - 회원가입 시, 현재 차량 소지 여부를 확인 후, 차량이 없다면 본인이 원하는 드림카를 업로드 하도록 유도합니다.
 <br/>
 <br/>
-<img src="/uploads/7e3f7997da0a0d59a1e527b932c42c9a/화면_캡처_2022-12-17_052921.png" width="300"/>
+![flow_1](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/7e3f7997da0a0d59a1e527b932c42c9a/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_052921.png)
 
 <br/>
 <br/>
@@ -68,7 +68,7 @@
 
 <br/>
 <br/>
-<img src="/uploads/6e12a8b8e1bd26d54707c98cf70e0fa3/화면_캡처_2022-12-17_053055.png" width="300"/>
+![flow_2](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/6e12a8b8e1bd26d54707c98cf70e0fa3/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_053055.png)
 <br/>
 <br/>
 
@@ -77,7 +77,8 @@
 - 차량을 소지한 경우 주유 내역을 통해 연비를 계산 후, 그에 해당하는 전비를 가진 전기차를 추천해드립니다.
 <br/>
 <br/>
-<img src="/uploads/bbf67b84c1d6608539b279dd481884c1/화면_캡처_2022-12-17_053214.png" width="300"/>
+
+![flow_3](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/bbf67b84c1d6608539b279dd481884c1/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_053214.png)
 <br/>
 <br/>
 <br/>
@@ -93,7 +94,10 @@
 
 ### 📈 모델 학습 결과
 <br/>
-<img src="/uploads/ec55f240205f952e3dee7086a2e7ad8e/화면_캡처_2022-12-17_104052.png" width="300"/>
+
+![7-1](https://user-images.githubusercontent.com/64246481/212704025-70e5dd63-e84e-4e1b-a77b-4055a76bb38a.png)
+
+![7-2](https://user-images.githubusercontent.com/64246481/212704005-949c4a9d-e68e-4899-8b5b-b7383c6ae953.png)
 
 <br/>
 <br/>
@@ -101,7 +105,8 @@
 ### 📊 학습된 모델로 평가 결과
 
 <br/>
-<img src="/uploads/a0d57971ac8ac4903be8c04697d8a695/화면_캡처_2022-12-17_104113.png" width="300"/>
+
+![model_result](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/a0d57971ac8ac4903be8c04697d8a695/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_104113.png)
 <br/>
 <br/>
 
@@ -111,8 +116,8 @@
 #### 전기차에 관련된 간단한 정보를 알려드릴 수 있도록 메인 화면에 챗봇 서비스를 제공합니다.
 <br/>
 <br/>
-<img src="/uploads/d35694dd51b5e88d0b829a65bbee4925/화면_캡처_2022-12-17_052734.png" width="300"/>
 
+![chat_bot](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/d35694dd51b5e88d0b829a65bbee4925/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_052734.png)
 <br/>
 <br/>
 <br/>
@@ -121,6 +126,8 @@
 #### 지인에게 서비스를 추천할 수 있도록 카카오톡 공유 기능을 제공합니다
 <br/>
 <br/>
-<img src="/uploads/ecf717f62e089f10ebd4876f39773855/화면_캡처_2022-12-17_104753.png" width="300"/>
+
+![kakao_share](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/ecf717f62e089f10ebd4876f39773855/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_104753.png)
+
 
 
