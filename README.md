@@ -59,6 +59,7 @@
 - 회원가입 시, 현재 차량 소지 여부를 확인 후, 차량이 없다면 본인이 원하는 드림카를 업로드 하도록 유도합니다.
 <br/>
 <br/>
+
 ![flow_1](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/7e3f7997da0a0d59a1e527b932c42c9a/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_052921.png)
 
 <br/>
@@ -68,6 +69,7 @@
 
 <br/>
 <br/>
+
 ![flow_2](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/6e12a8b8e1bd26d54707c98cf70e0fa3/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_053055.png)
 <br/>
 <br/>
