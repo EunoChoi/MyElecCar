@@ -6,10 +6,6 @@
 
 ###  myElecCar 는 유저의 성향, 현재 차량, 주유 내역 등을 토대로<br/><br/> 유저에게 적합한 전기차를 추천해주는 인공지능 서비스 입니다
 
-<br/>
-
-## 사이트 링크
-**:point_right:  [myElecCar 서비스 보러 가기](http://kdt-ai5-team11.elicecoding.com) :point_left:**
 
 <br/>
 
