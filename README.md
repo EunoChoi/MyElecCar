@@ -9,7 +9,7 @@
 
 <br/>
 
-#### 서비스 미리보기
+## 🖼️ 서비스 미리보기
 ![service pic](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team11/11/uploads/0900f4be37c5e34342e59fd87b21f201/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-12-17_052144.png)
 
 <br/>
